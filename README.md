@@ -21,15 +21,6 @@ source.
   <a href="https://f-droid.org/app/org.isoron.uhabits"><img alt="Get it on F-Droid" src="https://f-droid.org/badge/get-it-on.png" height="80px"/></a>
 </p>
 
-## Screenshots
-
-[![Main screen][screen1th]][screen1]
-[![Edit habit][screen2th]][screen2]
-[![Habit strength][screen3th]][screen3]
-[![Habit history and streaks][screen4th]][screen4]
-[![Widgets][screen5th]][screen5]
-[![Night mode][screen6th]][screen6]
-
 ## Features
 
 * <b>Beautiful, minimalistic and lightweight interface.</b>
